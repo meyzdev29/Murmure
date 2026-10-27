@@ -1,0 +1,12 @@
+{
+  "appId": "fr.murmure.app",
+  "appName": "Murmure",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
